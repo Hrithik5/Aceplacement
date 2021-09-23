@@ -30,7 +30,7 @@ Then go to the browser and enter the url http://127.0.0.1:8000/
 
 <h2>This project includes:</h2>
 
-
+    
 ->Our project consists of sign in and login page for students as well for admin.
 
 ->Then comes the upcoming events section where the students can login for the events such as Training for Internships, Machine Learning, AR/VR and so on.
