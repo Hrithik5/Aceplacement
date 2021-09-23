@@ -3,7 +3,7 @@
 <br>      
 
 ![HOME Page (1)](https://user-images.githubusercontent.com/40533390/93332264-37bd4380-f83f-11ea-9826-e0b3266685df.png)
-
+    
 
 <h2>Getting Started</h2>
 <p>Steps:</p>
