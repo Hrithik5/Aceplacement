@@ -8,23 +8,22 @@
 <h2>Getting Started</h2>
 <p>Steps:</p>
 <ol>
-<li>Clone/pull/download this repository</li>
-<li>Create a virtualenv with <code>virtualenv env</code> and install dependencies</li>
-<li>Configure your .env files.</li>
-<li>Activate the virtual env using <code>Scripts/activate</code></li>
+<li>Clone the repository</li>
+<li>Create a virtualenv with <code>py -m virtualenv env</code></li>
+<li>Activate the virtual env using <code>env\Scripts\activate</code></li>
 <li>You've setup the virtual env and you're good to run the project.</li>
 </ol>
 <h2>Installation</h2>
-<pre>pip install django</pre>
-<pre>pip install django-bulma</pre>
+<p>To run the project install django and django-bulma packages</p>
+<pre>pip install django django-bulma</pre>
 <h2>Login</h2>
 
 You can access the django admin page at http://127.0.0.1:8000/admin and login with username 'admin' and the password as admin123.
 Also a new admin user can be created using
 <pre>python manage.py createsuperuser</pre>
 <h2>Usage</h2>
-Go to TPO_website folder and run
-<pre>python manage.py runserver</pre>
+Go to TPO folder and run
+<pre>py manage.py runserver</pre>
 Then go to the browser and enter the url http://127.0.0.1:8000/
 
 
